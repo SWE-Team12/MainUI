@@ -19,13 +19,14 @@ f) Account_Info.js
 - 생성한 계정 정보를 로컬로 저장받기 위한 페이지
 g) Issue_Status.js
 - 이슈 Status 저장 및 관리를 위한 페이지
-**부분 구현**
+
+**해당 페이지 구현 중**
 
 ## 이미지 파일
 리액트 구현에 사용된 모든 이미지 파일은 public/img 폴더에 svg 확장자로 저장하여 사용함
 
 ## 설치
-
+``
 1. npm install react
 2. npm install react-dom
 3. npm install react-router-dom
