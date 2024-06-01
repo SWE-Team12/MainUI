@@ -25,8 +25,8 @@ g) Issue_Status.js
 ## 이미지 파일
 리액트 구현에 사용된 모든 이미지 파일은 public/img 폴더에 svg 확장자로 저장하여 사용함
 
-## 설치
-```
+## 리액트 개발환경 패키지 설치
+
 ```shell
 npm install
 ```
