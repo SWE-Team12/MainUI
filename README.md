@@ -26,10 +26,21 @@ g) Issue_Status.js
 리액트 구현에 사용된 모든 이미지 파일은 public/img 폴더에 svg 확장자로 저장하여 사용함
 
 ## 설치
-``
-1. npm install react
-2. npm install react-dom
-3. npm install react-router-dom
+```
+```shell
+npm install
+```
 
-## 사용법
+```shell
+npm install react-dom
+```
+
+```shell
+npm install react-router-dom
+```
+
+## 로컬에서 웹 실행하는 명령어
+
+```shell
 npm start
+```
