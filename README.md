@@ -30,6 +30,14 @@ npm install react-dom
 npm install react-router-dom
 ```
 
+```shell
+npm install react-datepicker
+```
+
+```shell
+npm install --save styled-components
+```
+
 ## 로컬에서 웹 실행하는 명령어
 
 ```shell
